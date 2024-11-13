@@ -445,7 +445,7 @@ const sentences = [
   },
   {
     no: 61,
-    sentence: '人口大量扩张是大量垃圾产生的原因',
+    sentence: '人口快速扩张是大量垃圾产生的原因',
     translationFromBook: 'The rapid population expansion is the main reason for the huge accumulation of waste',
     chatgpt: 'The substantial expansion of population is a cause of the significant increase in waste production',
     remark: 'substantial adj. 大的；可观的；价值巨大的；重大的；基本上；大体上',
